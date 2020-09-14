@@ -197,7 +197,7 @@ h4.agile-title,h1.agile-title,h2.agile-title {
     background-size: cover;
 }
 .csslider>ul>li:last-child {
-    background: url(https://res.cloudinary.com/bimagv/image/upload/v1599161657/Seperkopian/REST_IMG-960x720-FIT_AND_TRIM-843aed65ddadacb7cc31b8113db1a94d_qmhddz.jpg) no-repeat center;
+    background: url(https://res.cloudinary.com/bimagv/image/upload/v1600010914/doc_pk14ed.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -676,7 +676,7 @@ h3.heading {
 }
 /*-- inner page banner --*/
 .inner-page-banner {
-    background: url(../images/kopi.jpg) no-repeat;
+    background: url(../images/kopi.jpg) no-repeat center;
     background-size: cover;
     min-height: 300px;
     position: relative;
